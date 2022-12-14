@@ -11,4 +11,4 @@ I write this tampermonky script so it will do this automatically when you need t
 Once you are on the screen asking you to "Grant access to your private repositories," The tampermonky script will add the workaround to console
 
 ## How to use it
-create a new script copy the code and paste the code there then active the code.
+create a new tampermanky script copy the code and paste the code there then active the code.
